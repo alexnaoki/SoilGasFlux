@@ -1,5 +1,6 @@
 # SoilGasFlux
 Hub regarding all content (design, FCS, microcontroller codes, etc)
+[![DOI](https://zenodo.org/badge/904940201.svg)](https://doi.org/10.5281/zenodo.14748701)
 
 ## Table of contents
 - [Raspberry Pi Pico W code](https://github.com/alexnaoki/SoilGasFlux-RaspberryPi)
